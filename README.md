@@ -19,3 +19,6 @@ https://basescan.org/address/0x83e44847ae5d169a8da3be6e6b6b1532a3dd44c8#code
 
 AlwaysDonate: 0xBc0123aAF02E5f95Df5979FFFa1c99000fA21581
 https://basescan.org/address/0xbc0123aaf02e5f95df5979fffa1c99000fa21581#code
+
+MultiTransaction: 0x05cCb236c83cfd214aB4D0aC4D6799e324187e7b
+https://basescan.org/address/0x05ccb236c83cfd214ab4d0ac4d6799e324187e7b#code
