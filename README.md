@@ -16,3 +16,6 @@ https://basescan.org/address/0x58d9a5899868e48273283fc36df03b6f8f780741#code
 
 ChainLogger: 0x83e44847AE5D169a8da3BE6E6b6b1532A3DD44C8
 https://basescan.org/address/0x83e44847ae5d169a8da3be6e6b6b1532a3dd44c8#code
+
+AlwaysDonate: 0xBc0123aAF02E5f95Df5979FFFa1c99000fA21581
+https://basescan.org/address/0xbc0123aaf02e5f95df5979fffa1c99000fa21581#code
