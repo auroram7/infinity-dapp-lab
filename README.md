@@ -25,3 +25,6 @@ https://basescan.org/address/0x05ccb236c83cfd214ab4d0ac4d6799e324187e7b#code
 
 ShoutBox: 0x1fE37A681A3fa544dFbaD789E25f9E78dDC9f49a
 https://basescan.org/address/0x1fe37a681a3fa544dfbad789e25f9e78ddc9f49a#code
+
+MultiCounter: 0x0c19994eEFEe3DDf2Db6e4302c9C280361E7FD76
+https://basescan.org/address/0x0c19994eefee3ddf2db6e4302c9c280361e7fd76#code
