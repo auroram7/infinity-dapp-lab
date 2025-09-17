@@ -7,3 +7,6 @@ https://basescan.org/address/0x601a5203f7eaca202d39a62a77fcfaaa85fdfa91#code
 
 FreeVote: 0x7d026Ce54a0E878876C9f8815d9a726B09c0fdA7
 https://basescan.org/address/0x7d026ce54a0e878876c9f8815d9a726b09c0fda7#code
+
+SimpleNote: 0xf75700A9f03d8e9986225cA096100cBA4d280C4E
+https://basescan.org/address/0xf75700a9f03d8e9986225ca096100cba4d280c4e#code
