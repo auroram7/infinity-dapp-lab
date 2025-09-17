@@ -13,3 +13,6 @@ https://basescan.org/address/0xf75700a9f03d8e9986225ca096100cba4d280c4e#code
 
 PingPong: 0x58D9A5899868E48273283Fc36DF03b6f8F780741
 https://basescan.org/address/0x58d9a5899868e48273283fc36df03b6f8f780741#code
+
+ChainLogger: 0x83e44847AE5D169a8da3BE6E6b6b1532A3DD44C8
+https://basescan.org/address/0x83e44847ae5d169a8da3be6e6b6b1532a3dd44c8#code
