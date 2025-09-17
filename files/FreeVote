@@ -1,0 +1,16 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+contract FreeVote {
+    mapping(uint256 => uint256) public votes;
+    event Voted(address indexed voter, uint256 indexed id);
+
+    /**
+     * @dev Increments the vote count for a given ID and emits an event.
+     * @param id The ID to vote for.
+     */
+    function vote(uint256 id) external {
+        votes[id]++;
+        emit Voted(msg.sender, id);
+    }
+}
