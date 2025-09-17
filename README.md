@@ -1,3 +1,6 @@
 # infinity-dapp-lab
 EchoBoard: 0xAD85E19CD7CCa988bbda0680dc02Db5898f0f350
 https://basescan.org/address/0xad85e19cd7cca988bbda0680dc02db5898f0f350#code
+
+OpenCounter: 0x601A5203F7eacA202D39A62A77FcFaAA85fdFA91
+https://basescan.org/address/0x601a5203f7eaca202d39a62a77fcfaaa85fdfa91#code
