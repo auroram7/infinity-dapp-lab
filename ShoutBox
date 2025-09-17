@@ -1,0 +1,9 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+contract ShoutBox {
+    event Shout(address user, string text);
+    function shout(string calldata t) external {
+        emit Shout(msg.sender, t);
+    }
+}
