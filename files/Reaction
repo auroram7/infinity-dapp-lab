@@ -1,7 +1,12 @@
-// SPDX-License-Identifier: GPL-3.0
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
 contract Reaction {
     mapping(uint256 => uint256) public likes;
-    function react(uint256 id) external { likes[id]++; }
+    event Reacted(address user, uint256 id);
+
+    function react(uint256 id) external {
+        likes[id] += 1;
+        emit Reacted(msg.sender, id);
+    }
 }
