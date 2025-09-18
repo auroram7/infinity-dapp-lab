@@ -7,3 +7,24 @@ https://basescan.org/address/0x601a5203f7eaca202d39a62a77fcfaaa85fdfa91#code
 
 FreeVote: 0x7d026Ce54a0E878876C9f8815d9a726B09c0fdA7
 https://basescan.org/address/0x7d026ce54a0e878876c9f8815d9a726b09c0fda7#code
+
+SimpleNote: 0xf75700A9f03d8e9986225cA096100cBA4d280C4E
+https://basescan.org/address/0xf75700a9f03d8e9986225ca096100cba4d280c4e#code
+
+PingPong: 0x58D9A5899868E48273283Fc36DF03b6f8F780741
+https://basescan.org/address/0x58d9a5899868e48273283fc36df03b6f8f780741#code
+
+ChainLogger: 0x83e44847AE5D169a8da3BE6E6b6b1532A3DD44C8
+https://basescan.org/address/0x83e44847ae5d169a8da3be6e6b6b1532a3dd44c8#code
+
+AlwaysDonate: 0xBc0123aAF02E5f95Df5979FFFa1c99000fA21581
+https://basescan.org/address/0xbc0123aaf02e5f95df5979fffa1c99000fa21581#code
+
+MultiTransaction: 0x05cCb236c83cfd214aB4D0aC4D6799e324187e7b
+https://basescan.org/address/0x05ccb236c83cfd214ab4d0ac4d6799e324187e7b#code
+
+ShoutBox: 0x1fE37A681A3fa544dFbaD789E25f9E78dDC9f49a
+https://basescan.org/address/0x1fe37a681a3fa544dfbad789e25f9e78ddc9f49a#code
+
+MultiCounter: 0x0c19994eEFEe3DDf2Db6e4302c9C280361E7FD76
+https://basescan.org/address/0x0c19994eefee3ddf2db6e4302c9c280361e7fd76#code

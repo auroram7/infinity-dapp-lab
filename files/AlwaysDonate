@@ -1,0 +1,7 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+contract AlwaysDonate {
+    event Received(address from, uint256 value);
+    receive() external payable { emit Received(msg.sender, msg.value); }
+}

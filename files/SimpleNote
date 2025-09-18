@@ -1,0 +1,5 @@
+pragma solidity ^0.8.20;
+contract SimpleNote {
+    mapping(address => string) public notes;
+    function write(string calldata msg_) external { notes[msg.sender] = msg_; }
+}
