@@ -1,0 +1,12 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+contract OpenDraw {
+    address[] public players;
+    event Joined(address user);
+
+    function join() external {
+        players.push(msg.sender);
+        emit Joined(msg.sender);
+    }
+}
